@@ -1,3 +1,4 @@
+为什么独立维护一个,原来的 pod 有 bug, 更新之后和项目的其他 pod 有冲突,这样的成本最小
 # ZLPhotoBrowser
 [![Version](https://img.shields.io/cocoapods/v/ZLPhotoBrowser.svg?style=flat)](http://cocoadocs.org/docsets/ZLPhotoBrowser)
 [![License](https://img.shields.io/cocoapods/l/ZLPhotoBrowser.svg?style=flat)](http://cocoadocs.org/docsets/ZLPhotoBrowser)
